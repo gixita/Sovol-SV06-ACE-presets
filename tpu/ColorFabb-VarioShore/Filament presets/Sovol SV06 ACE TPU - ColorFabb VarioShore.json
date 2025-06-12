@@ -1,0 +1,61 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "50"
+    ],
+    "filament_density": [
+        "1.22"
+    ],
+    "filament_deretraction_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.85"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.5"
+    ],
+    "filament_retraction_length": [
+        "1.5"
+    ],
+    "filament_retraction_minimum_travel": [
+        "0.5"
+    ],
+    "filament_retraction_speed": [
+        "60"
+    ],
+    "filament_settings_id": [
+        "Sovol SV06 ACE TPU - ColorFabb VarioShore"
+    ],
+    "filament_vendor": [
+        "ColorFabb"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Sovol SV06 ACE TPU",
+    "is_custom_defined": "0",
+    "name": "Sovol SV06 ACE TPU - ColorFabb VarioShore",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "pressure_advance": [
+        "0.4"
+    ],
+    "textured_plate_temp": [
+        "50"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "2.3.0.3"
+}
